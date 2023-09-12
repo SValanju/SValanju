@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="/coder.gif" width="100"/>
+  <img src="/logo.png" width="300"/>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/sameer-valanju-10873b19b">
@@ -19,4 +19,8 @@
     Hey There
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+</div>
+
+<div align="center">
+  <img src="/coder.gif" width="600"/>
 </div>
