@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <img src="/logo.png" width="200"/>
+  <a href="https://webmasterguru.in/">
+    <img src="/logo.png" width="200"/>
+  </a>
   
   <div id="badges">
     <a href="https://www.linkedin.com/in/sameer-valanju-10873b19b">
