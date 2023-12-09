@@ -25,7 +25,7 @@
 
 <div align="center">
   <!--<img src="/coder.gif" width="600"/>-->
-  <a href="https://app.daily.dev/svalanju"><img src="https://api.daily.dev/devcards/02f93f5195fd451ebed2d6e0a929abf5.png?r=klb" width="400" alt="Sameer Valanju's Dev Card"/></a>
+  <a href="https://app.daily.dev/svalanju"><img src="https://github.com/SValanju/SValanju/blob/main/devcard.svg" width="400" alt="Sameer Valanju's Dev Card"/></a>
 </div>
 
 ---
