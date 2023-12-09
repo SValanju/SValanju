@@ -1,21 +1,15 @@
-<div id="header" align="center">
-  <a href="https://webmasterguru.in/">
-    <img src="/logo.png" width="200"/>
-  </a>
-  
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/sameer-valanju-10873b19b">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.instagram.com/sameer_valanju">
-      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-    </a>
-  </div>
-
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=SValanju&style=flat&color=blue&label=Profile+Views" alt="Github Views"/>
 </div>
+<div align="center">
+  
+| <a href="https://webmasterguru.in/"><img src="/logo.png" width="200"/></a> | <div id="badges"><a href="https://www.linkedin.com/in/sameer-valanju-10873b19b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><a href="https://www.instagram.com/sameer_valanju"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a></div> |
+| --- | --- |
 
-# Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</div>
+
+---
+
 ### 👨‍💻 About Me :
 I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Mumbai, India.
 - 🔭 I’m working as a Associate Consultant and contributing to frontend and backend for building web applications.
@@ -52,5 +46,9 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 ---
 
 ### 🔥 My Stats :
+<div align="center">
+
 | <a href="https://app.daily.dev/svalanju"><img src="https://github.com/SValanju/SValanju/blob/main/devcard.svg" width="400" alt="Sameer Valanju's Dev Card"/></a> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SValanju&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) <br /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SValanju&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 | --- | --- |
+
+</div>
