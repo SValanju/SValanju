@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   
-| <a href="https://webmasterguru.in/"><img src="/logo.png" width="200"/></a> | <div id="badges"><a href="https://www.linkedin.com/in/sameer-valanju-10873b19b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><a href="https://www.instagram.com/sameer_valanju"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a></div> |
+| <a href="https://webmasterguru.in/"><img src="/SV_Logo_Black_transparent.png" width="200"/></a> | <div id="badges"><a href="https://www.linkedin.com/in/sameer-valanju-10873b19b"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a><a href="https://www.instagram.com/sameer_valanju"><img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a></div> |
 | --- | --- |
 
 </div>
