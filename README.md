@@ -30,19 +30,19 @@
 
 ---
 
-### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Mumbai, India.
-- :telescope: I’m working as a Associate Consultant and contributing to frontend and backend for building web applications.
+### 👨‍💻 About Me :
+I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Mumbai, India.
+- 🔭 I’m working as a Associate Consultant and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- 🌱 Exploring Technical Content Writing.
 
-- :zap: In my free time, I develop small projects or solve problems and read tech articles.
+- ⚡ In my free time, I develop small projects or solve problems and read tech articles.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-valanju-10873b19b)
+- 📧 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-valanju-10873b19b)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/dot-net/dot-net-original.svg" title="DotNet" alt="DotNet" width="40" height="40"/>&nbsp;
@@ -65,7 +65,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SValanju&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SValanju&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
