@@ -14,7 +14,7 @@
 I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Mumbai, India.
 - 🔭 I’m working as a Associate Consultant and contributing to frontend and backend for building web applications.
 
-- 🌱 Exploring Technical Content Writing.
+- 🌱 Loves to read Tech blogs.
 
 - ⚡ In my free time, I develop small projects or solve problems and read tech articles.
 
