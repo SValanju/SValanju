@@ -52,7 +52,7 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 ### 🔥 My Stats :
 <div align="center">
 
-| <a href="https://app.daily.dev/svalanju"><img src="https://github.com/SValanju/SValanju/blob/main/devcard.svg" width="400" alt="Sameer Valanju's Dev Card"/></a> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SValanju&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) <br /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SValanju&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+| <a href="https://app.daily.dev/svalanju"><img src="https://github.com/SValanju/SValanju/blob/main/devcard.svg" width="400" alt="Sameer Valanju's Dev Card"/></a> | [![GitHub Streak](https://streak-stats.demolab.com?user=SValanju&theme=dark&mode=weekly)](https://git.io/streak-stats) <br /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SValanju&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
 | --- | --- |
 
 </div>
