@@ -35,45 +35,122 @@ When I’m not coding professionally, I’m usually reading tech blogs, learning
 
 ---
 
-### 🛠️ Languages and Tools :
+### 🛠️ Tech Stack :
 
-<div>
-  <img src="Icons/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="Icons/dot-net-original.svg" title="DotNet" alt="DotNet" width="40" height="40"/>&nbsp;
-  <img src="Icons/dotnetcore-original.svg" title="DotNet Core" alt="DotNet Core" width="40" height="40"/>&nbsp;
-  <img src="Icons/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="Icons/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="Icons/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="Icons/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="Icons/sass.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-  <img src="Icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="Icons/typescript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="Icons/jquery-original.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
-  <img src="Icons/bootstrap.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="Icons/nodejs.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="Icons/react.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
-  <img src="Icons/angular.png" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="Icons/astro.svg" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
-  <img src="Icons/postgresql-original.svg" title="Postgres" alt="Postgres" width="40" height="40"/>&nbsp;
-  <img src="Icons/microsoftsqlserver-plain.svg" title="MS SQL Server" alt="MS SQL Server" width="40" height="40"/>&nbsp;
-  <img src="Icons/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="Icons/oracle-original.svg" title="Oracle DB" alt="Oracle DB" width="40" height="40"/>&nbsp;
-  <img src="Icons/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="Icons/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="Icons/azuredevops-original.svg" title="Azure DevOps" alt="Azure DevOps" width="40" height="40"/>&nbsp;
-  <img src="Icons/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-  <img src="Icons/Firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="Icons/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="Icons/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="Icons/gh-actions.svg" title="GitHub Actions" alt="GitHub Actions" width="40" height="40"/>&nbsp;
-  <img src="Icons/ms-foundry.svg" title="Microsoft Foundry" alt="Microsoft Foundry" width="40" height="40"/>&nbsp;
-  <img src="Icons/ms-agent-framework.png" title="Microsoft Agent Framework" alt="Microsoft Agent Framework" width="40" height="40"/>&nbsp;
-  <img src="Icons/gh-copilot.svg" title="GitHub Copilot" alt="GitHub Copilot" width="40" height="40"/>&nbsp;
-  <img src="Icons/chatgpt.svg" title="ChatGPT" alt="ChatGPT" width="40" height="40"/>&nbsp;
-  <img src="Icons/claude.svg" title="Claude" alt="Claude" width="40" height="40"/>&nbsp;
-  <img src="Icons/ollama.svg" title="Ollama" alt="Ollama" width="40" height="40"/>&nbsp;
-  <img src="Icons/n8n.svg" title="n8n" alt="n8n" width="40" height="40"/>&nbsp;
-</div>
+<table>
+  <tr>
+    <td align="center" width="140"><strong>Languages</strong></td>
+    <td>
+      <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/MVC-512BD4?logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET_Aspire-512BD4?&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/LINQ-512BD4?&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/SignalR-512BD4?&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="140"><strong>Backend as a Service (BaaS)</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Firebase-F66C21?logo=firebase&logoColor=fff" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Database</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Oracle_SQL-F80000?logo=oracle&logoColor=fff" />
+      <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ORMs</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/EF_Core-512BD4?logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dapper-512BD4?logo=dotnet&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>API & Integration Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647" />
+      <img src="https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Azure%20Functions-0078D7?logo=azure-functions&logoColor=fff" />
+      <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Cloud & DevOps</strong></td>
+    <td>
+      <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>AI & Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=fff" />
+      <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Azure_AI_Foundry-2822AD?logo=microsoft-foundry&logoColor=fff" />
+      <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000" />
+      <img src="https://img.shields.io/badge/Agent_Framework-512BD4?logo=dotnet&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff" />
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-639?logo=css&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>IDEs</strong></td>
+    <td>
+      <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Version Control</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Project & Collaboration</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff" />
+      <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -81,7 +158,11 @@ When I’m not coding professionally, I’m usually reading tech blogs, learning
 
 <div align="center">
 
-| <a href="https://app.daily.dev/svalanju"><img src="https://github.com/SValanju/SValanju/blob/main/devcard.svg" width="400" alt="Sameer Valanju's Dev Card"/></a> | [![GitHub Streak](https://streak-stats.demolab.com?user=SValanju&theme=dark&mode=weekly)](https://git.io/streak-stats) <br /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SValanju&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) |
+| <a href="https://app.daily.dev/svalanju"><img src="https://github.com/SValanju/SValanju/blob/main/devcard.svg" width="400" alt="Sameer Valanju's Dev Card"/></a> | [![My Stats](https://awesome-github-stats.azurewebsites.net/user-stats/svalanju?cardType=level&fontFamily=&preferLogin=false&Background=000000&Text=FFFFFF)](https://git.io/awesome-stats-card) <br /> [![GitHub Streak](https://streak-stats.demolab.com?user=SValanju&theme=dark&mode=weekly)](https://git.io/streak-stats) |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 </div>
+
+<!-- ### 🏆 My trophies :
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=svalanju&theme=onedark&rank=-?) -->
