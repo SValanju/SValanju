@@ -52,8 +52,9 @@ When I’m not coding professionally, I’m usually reading tech blogs, learning
     <td align="center" width="140"><strong>Backend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/.NET_Core-512BD4?logo=dotnet&logoColor=white" />
-      <img src="https://img.shields.io/badge/MVC-512BD4?logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET_MVC-512BD4?logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/.NET_Aspire-512BD4?&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/LINQ-512BD4?&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/SignalR-512BD4?&logo=dotnet&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
