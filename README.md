@@ -43,7 +43,6 @@ When I’m not coding professionally, I’m usually reading tech blogs, learning
     <td>
       <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
     </td>
@@ -110,6 +109,7 @@ When I’m not coding professionally, I’m usually reading tech blogs, learning
       <img src="https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=fff" />
       <img src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white" />
       <img src="https://custom-icon-badges.demolab.com/badge/Azure_AI_Foundry-2822AD?logo=microsoft-foundry&logoColor=fff" />
+      <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20AI%20Services-0089D6?logo=msazure&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff" />
       <img src="https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000" />
       <img src="https://img.shields.io/badge/Agent_Framework-512BD4?logo=dotnet&logoColor=white" />
@@ -121,14 +121,12 @@ When I’m not coding professionally, I’m usually reading tech blogs, learning
       <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=fff" />
       <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
       <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-639?logo=css&logoColor=fff" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff" />
       <img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" />
       <img src="https://img.shields.io/badge/Tailwind-%2338B2AC.svg?logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff" />
     </td>
   </tr>
   <tr>
